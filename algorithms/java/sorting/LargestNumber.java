@@ -11,6 +11,9 @@ Example Input : A = [3, 30, 34, 5, 9]
 Example Output : "9534330"
 
 * */
+
+// Time Complexity : O(NlogN)
+// Space Complexity : O(N)
 package sorting;
 
 import java.util.Arrays;
