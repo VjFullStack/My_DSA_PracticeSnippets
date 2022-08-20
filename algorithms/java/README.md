@@ -6,6 +6,7 @@
 - [Largest Number](sorting/LargestNumber.java)
 - [Noble Integer](sorting/NobleInteger.java)
 - [Sort Colors](sorting/SortColors.java)
+- [Factors Sort](sorting/FactorsSort.java)
 
 
 
