@@ -5,9 +5,14 @@
 - [Longest Palindrome SubString](strings/LongestPalindromeSubString.java)
 - [To_Lower_TheGivenString_WithoutUsing_BuiltIns](strings/ToLower.java)
 - [To_Upper_TheGivenString_WithoutUsing_BuiltIns](strings/ToUpper.java)
+- [AmazingSubArrays](strings/AmazingSubArrays.java)
+- [Count Occurrences](strings/CountOccurrences.java)
+- [Change_Character](strings/ChangeCharacter.java)
+- [String Operations](strings/StringOperations.java)
 
 
 
+y
 ## Sorting
 
 - [Elements Removal](sorting/ElementsRemoval.java)
