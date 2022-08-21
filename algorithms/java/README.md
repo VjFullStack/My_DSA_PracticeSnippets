@@ -1,5 +1,12 @@
 # Java
 
+## Strings
+- [Reverse_Words](strings/ReverseWords.java)
+- [Longest Palindrome SubString](strings/LongestPalindromeSubString.java)
+- 
+
+
+
 ## Sorting
 
 - [Elements Removal](sorting/ElementsRemoval.java)
