@@ -11,6 +11,8 @@ lowercase letters from a to z respectively. Return the lowercase version of the 
 * Input : A = ['S', 'c', 'A', 'l', 'e', 'r', 'A', 'c', 'a', 'D', 'e', 'm', 'y']
 * Output :  ['s', 'c', 'a', 'l', 'e', 'r', 'a', 'c', 'a', 'd', 'e', 'm', 'y']
 
+* TC : O(N)
+* SC : O(1)
 * */
 package strings;
 
