@@ -4,6 +4,7 @@
 - [Reverse_Words](strings/ReverseWords.java)
 - [Longest Palindrome SubString](strings/LongestPalindromeSubString.java)
 - [To_Lower_TheGivenString_WithoutUsing_BuiltIns](strings/ToLower.java)
+- [To_Upper_TheGivenString_WithoutUsing_BuiltIns](strings/ToUpper.java)
 
 
 
