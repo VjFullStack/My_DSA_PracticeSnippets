@@ -12,7 +12,7 @@
 
 
 
-y
+
 ## Sorting
 
 - [Elements Removal](sorting/ElementsRemoval.java)
@@ -21,7 +21,9 @@ y
 - [Sort Colors](sorting/SortColors.java)
 - [Factors Sort](sorting/FactorsSort.java)
 
+## Bit Manipulation
 
-
-
-
+- [SingleNumber](bitmanipulation/SingleNumber.java)
+- [Add_Binary_Strings](bitmanipulation/AddBinaryStrings.java)
+- [Find_Number_Of_SetBits_From_Given_Integer](bitmanipulation/NumberOfSetBits.java)
+- 
