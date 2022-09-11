@@ -26,4 +26,5 @@
 - [SingleNumber](bitmanipulation/SingleNumber.java)
 - [Add_Binary_Strings](bitmanipulation/AddBinaryStrings.java)
 - [Find_Number_Of_SetBits_From_Given_Integer](bitmanipulation/NumberOfSetBits.java)
-- 
+- [Interesting_Array](bitmanipulation/InterestingArray.java)
+- [Bit_Compression](bitmanipulation/BitCompression.java)
