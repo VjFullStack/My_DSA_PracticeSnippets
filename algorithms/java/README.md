@@ -29,4 +29,5 @@
 - [Interesting_Array](bitmanipulation/InterestingArray.java)
 - [Bit_Compression](bitmanipulation/BitCompression.java)
 - [Help_From_Sam](bitmanipulation/HelpFromSam.java)
-- 
+- [SingleNumberTwo](bitmanipulation/SingleNumberTwo.java)
+- [SingleNumberThree](bitmanipulation/SingleNumberThree.java)
